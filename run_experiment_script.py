@@ -1,16 +1,3 @@
-#!/usr/bin/env python
-"""
-Run Complete Sepia Classification Experiment
-
-This script executes the complete pipeline for sepia filter classification:
-1. Creates a dataset of normal and sepia-filtered images
-2. Performs hyperparameter tuning for both ANN and CNN models
-3. Trains and evaluates the models with optimal hyperparameters
-4. Compares model performance and visualizes results
-
-Author: Your Name
-"""
-
 import os
 import argparse
 import tensorflow as tf
