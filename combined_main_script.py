@@ -1,15 +1,3 @@
-"""
-Complete Sepia Classification System
-
-This script provides a comprehensive pipeline for sepia filter classification:
-1. Dataset creation and preprocessing
-2. Model building (ANN and CNN)
-3. Training and evaluation
-4. Performance comparison and visualization
-
-Author: Your Name
-"""
-
 import os
 import numpy as np
 import matplotlib.pyplot as plt
