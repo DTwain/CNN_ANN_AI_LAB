@@ -1,0 +1,21 @@
+Sepia Classification Experiment Summary
+==================================================
+
+Dataset Information:
+- Total images: 200
+- Image size: 224x224
+
+ANN Model:
+- Parameters: 77,238,785
+- Training epochs: 11
+- Final validation accuracy: 0.6500
+- Final validation loss: 40.1305
+
+CNN Model:
+- Parameters: 13,133,729
+- Training epochs: 21
+- Final validation accuracy: 0.5750
+- Final validation loss: 20.3578
+
+Conclusion:
+The ANN model performed better for this task.

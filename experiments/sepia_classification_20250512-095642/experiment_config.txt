@@ -1,0 +1,18 @@
+Experiment Configuration:
+==================================================
+source_folder: None
+num_samples: 500
+img_size: 224
+do_hyperparameter_tuning: True
+max_tuning_epochs: 20
+max_combinations: 10
+ann_epochs: 50
+cnn_epochs: 100
+use_augmentation: True
+experiment_name: None
+
+System Information:
+==================================================
+TensorFlow Version: 2.19.0
+GPU Available: False
+GPU Devices: []
